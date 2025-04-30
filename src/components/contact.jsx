@@ -70,7 +70,7 @@ const Contact = () => {
       </div>
 
       <footer style={styles.footer}>
-        <p>&copy; 2024 John Paul Naynes. All Rights Reserved.</p>
+        <p>&copy; 2025 John Paul Naynes. All Rights Reserved.</p>
       </footer>
     </section>
   );
